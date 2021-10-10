@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yingyanglegends
-- 👀 I’m interested in ...
+- 👀 I’m interested in java
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 
